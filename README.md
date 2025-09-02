@@ -6,14 +6,14 @@ It follows the Software Testing Life Cycle (STLC) and includes all major QA docu
 This project is designed to demonstrate manual testing skills and professional QA documentation for portfolio purposes.
 
 ## Project Structure
-Cart-Testing/
-│── OpenCart+-FRS.pdf
-│── OpenCart+-Test+Plan.pdf
-│── OpenCart-BugReport.xlsx
-│── OpenCart-RTM.xlsx
-│── OpenCart-Test+Scenarios+.xlsx
-│── OpenCart-TestCases.xlsx
-│── OpenCart-TestExecution+Results.xlsx
+│── docs/
+│   ├── OpenCart+-FRS.pdf
+│   ├── OpenCart+-Test+Plan.pdf
+│   ├── OpenCart-RTM.xlsx
+│   ├── OpenCart-Test+Scenarios+.xlsx 
+│   ├── OpenCart-TestCases.xlsx
+│   ├── OpenCart-TestExecution+Results.xlsx
+│   ├──  OpenCart-BugReport.xlsx
 
 ## Documents Description
 ### 1. FRS (Functional Requirements Specification)
