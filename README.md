@@ -5,7 +5,7 @@ It follows the Software Testing Life Cycle (STLC) and includes all major QA docu
 
 This project is designed to demonstrate manual testing skills and professional QA documentation for portfolio purposes.
 
-##Project Structure
+## Project Structure
 Cart-Testing/
 │── OpenCart+-FRS.pdf
 │── OpenCart+-Test+Plan.pdf
@@ -15,26 +15,26 @@ Cart-Testing/
 │── OpenCart-TestCases.xlsx
 │── OpenCart-TestExecution+Results.xlsx
 
-##Documents Description
-###1. FRS (Functional Requirements Specification)
+## Documents Description
+### 1. FRS (Functional Requirements Specification)
 
 Contains functional and non-functional requirements of the application.
 
 Acts as the source for designing test scenarios and test cases.
 
-###2. Test Plan
+### 2. Test Plan
 
 Outlines the testing scope, objectives, approach, and schedule.
 
 Includes resources, risks, and deliverables.
 
-###3. Test Scenarios
+### 3. Test Scenarios
 
 High-level descriptions of what features/modules will be tested.
 
 Helps ensure coverage of all requirements before writing detailed test cases.
 
-###4. Test Cases
+### 4. Test Cases
 
 Detailed test cases with:
 
@@ -50,7 +50,7 @@ Actual result
 
 Pass/Fail status
 
-###5. Bug Report
+### 5. Bug Report
 
 Contains the list of defects identified during execution with:
 
@@ -64,15 +64,15 @@ Steps to reproduce
 
 Status
 
-###6. RTM (Requirements Traceability Matrix)
+### 6. RTM (Requirements Traceability Matrix)
 
 Links each requirement with its corresponding test cases to ensure complete coverage.
 
-###7. Test Execution Results
+### 7. Test Execution Results
 
 Logs the execution status (Pass/Fail) for each test case.
 
-##Tools & Skills Demonstrated
+## Tools & Skills Demonstrated
 
 Manual Testing
 
@@ -111,6 +111,6 @@ Review Test Execution Results for the final test outcomes.
 Pavuluri Varshitha
 
 
-📜 License
+## License
 
 This project is licensed for educational and portfolio purposes.
