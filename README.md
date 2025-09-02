@@ -1,5 +1,5 @@
 # E-Cart-Testing
-## 📌 Overview
+##  Overview
 This project documents the **end-to-end manual testing process** for a sample software application.
 It follows the **Software Testing Life Cycle (STLC)** and includes all major QA documentation artifacts
 such as requirements, test plans, test cases, environment setup, and testing strategy.
@@ -9,7 +9,7 @@ for portfolio purposes.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 Project-1/
 │── docs/
@@ -60,7 +60,7 @@ Project-1/
 
 ---
 
-## 📊 Sample Test Case Table
+##  Sample Test Case Table
 
 | Test Case ID | Description             | Steps to Execute                  | Expected Result         | Status |
 |--------------|------------------------|------------------------------------|-------------------------|--------|
@@ -69,7 +69,7 @@ Project-1/
 
 ---
 
-## 🚀 How to Use This Project
+##  How to Use This Project
 1. Open **Requirement Document** to understand the scope.
 2. Review the **Test Plan** for the testing approach.
 3. Go through **Test Cases** and execute them.
@@ -78,10 +78,10 @@ Project-1/
 
 ---
 
-## 📌 Author
+##  Author
 *Pavuluri Varshitha*
 
 ---
 
-## 📜 License
+##  License
 This project is licensed for educational and portfolio purposes.
